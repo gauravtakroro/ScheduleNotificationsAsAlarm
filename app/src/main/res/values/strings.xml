@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ScheduleNotificationsAsAlarm</string>
+    <string name="alarm_for_different_tasks">Alarm for Different Tasks</string>
 </resources>
